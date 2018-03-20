@@ -20,8 +20,8 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Divagaciones'
-description:	       'Living under the no free lunch theorem'
+title:		           'No soy una IA'
+description:	       'Living under the No Free Lunch Theorem'
 author:              'Jose González'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
